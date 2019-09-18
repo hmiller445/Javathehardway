@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - javahard",
+            "request": "launch",
+            "mainClass": "javahard",
+            "projectName": "javahard_c607d581"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FirstProg",
+            "request": "launch",
+            "mainClass": "FirstProg",
+            "projectName": "javahard_c607d581"
+        }
+    ]
+}
