@@ -17,27 +17,27 @@ public class ComparingNumbers
         {
             System.out.println(first + " is less than " + second);
         }
-        if(first <= second)
-        {
-            System.out.println(first + " is less than or equal than " + second);
-        }
-        if(first == second)
-        {
-            System.out.println(first + " is equal to " + second);
-        }
-        if(first >= second)
-        {
-            System.out.println(first + " greater than or equal to " + second);
-        }
-        if(first > second)
-        {
-            System.out.println(first + " is greater than " + second);
-        }
-        if(first != second)
-        
-            System.out.println(first + " does not equal " + second);
-            System.out.println("hey");
-        
+            // if(first <= second)
+            // {
+            //     System.out.println(first + " is less than or equal than " + second);
+            // }
+            // if(first == second)
+            // {
+            //     System.out.println(first + " is equal to " + second);
+            // }
+            // if(first >= second)
+            // {
+            //     System.out.println(first + " greater than or equal to " + second);
+            // }
+            // if(first > second)
+            // {
+            //     System.out.println(first + " is greater than " + second);
+            // }
+            // if(first != second)
+            
+            //     System.out.println(first + " does not equal " + second);
+            //     System.out.println("hey");
+            
     }
 }
 // hey runs regardless
